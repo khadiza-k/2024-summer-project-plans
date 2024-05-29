@@ -11,8 +11,5 @@ _Completed Markers:_
 
 ProjectName | Timeline | Description | Status  
 ----------- | -------- | ----------- | ---------
-DemoProjectInProgress | May 28 - Jun 5th | This is a demo project that is in progress | 🟠  
-DemoProjectDone | May 28 - Jun 5th | This is a demo project that is done | 🟢
-DemoProjectNotStart | May 28 - Jun 5th | This is a demo project that is not started | ⚫
 Full Stack Website Based on a Delivery System | May 28 - Jun 15th | This project is in progress | 🟠 
 
