@@ -9,7 +9,7 @@ _Completed Markers:_
 **Completed**:   🟢  
 
 
-ProjectName | Timeline | Description | Status  
------------ | -------- | ----------- | ---------
-Full Stack Website Based on a Delivery System | May 28 - Jun 15th | This project is in progress | 🟠 
+ProjectName | Timeline | Description | Description | Status  
+----------- | -------- | ----------- | ----------- | ---------
+DropNGo | May 28 - Jun 15th | Full Stack Website Based on a Delivery System  | [DropNGo Repo](https://github.com/khadiza-k/DropNGo)  | 🟠 
 
