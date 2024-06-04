@@ -9,7 +9,7 @@ _Completed Markers:_
 **Completed**:   🟢  
 
 
-ProjectName | Timeline | Description | Description | Status  
+ProjectName | Timeline | Description | Link | Status  
 ----------- | -------- | ----------- | ----------- | ---------
 DropNGo | May 28 - Jun 15th | Full Stack Website Based on a Delivery System  | [DropNGo Repo](https://github.com/khadiza-k/DropNGo)  | 🟠 
 
